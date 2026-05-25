@@ -1,4 +1,4 @@
-# Reinforcement Learning Derivative Hedging
+# Reinforcement Learning Derivative Hedging under Market Frictions
 
 A quantitative finance project that applies reinforcement learning to dynamic option hedging. The project trains an RL agent to hedge a short option position while minimizing both hedging error and transaction costs.
 
